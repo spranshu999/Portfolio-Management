@@ -70,7 +70,7 @@ From the attached file’s functions:
 - **Libraries:**
   - `pandas` – Time-series handling & cleaning  
   - `numpy` – Mathematical computations  
-  - `matplotlib` / `seaborn` – Charts & plots  
+  - `matplotlib` – Charts & plots  
   - `scipy.stats` – Skewness, kurtosis, normality testing  
   - Custom functions from *Index-Portfolio.ipynb* for:
     - Summary Statistics  
