@@ -1,4 +1,4 @@
-# 📈 Global Index Portfolio & Risk Management Report 🌍💹
+# 📈 Global Index Portfolio Construction & Risk Management 🌍💹
 
 ## 1. Overview
 This project delivers a **comprehensive portfolio analysis** of **20+ countries’ market indices** spanning over **two decades** of historical data.  
